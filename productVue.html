@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vue-Product App</title>
+    <link rel="stylesheet" href="../Style/style.css" />
+    <link rel="shortcut icon" href="../assets/vuejs.png" type="image/png" />
+  </head>
+
+  <body>
+    <div class="nav-bar"></div>
+    <div id="app">
+      <div class="cart">
+        <p>Cart({{cart.length}})</p>
+      </div>
+      <product
+        :premium="premium"
+        @add-to-cart="updateCart"
+        @remove-cart="removeCart"
+      ></product>
+      <product :premium="true"></product-review>
+    </div>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
+  <script src="../components/product.js"></script>
+</html>
