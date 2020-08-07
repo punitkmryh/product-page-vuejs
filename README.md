@@ -1,7 +1,7 @@
 # product-page-vuejs
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9a08ae3a-b54f-418b-af3a-3d5acc3ec91d/deploy-status)](https://app.netlify.com/sites/vuejs-products/deploys)
 
-Click here for ![DEMO](https://vuejs-products.netlify.app/)
+Click here for [DEMO](https://vuejs-products.netlify.app/)
 
 A e-commerce product page with features like 
 1.Add to cart
