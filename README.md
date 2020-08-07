@@ -4,20 +4,20 @@
 Click here for [DEMO](https://vuejs-products.netlify.app/)
 
 A e-commerce product page with features like 
-1.Add to cart
-2.Color variant
-3.Product in Stock?.
-4.Shipping changes.
-5.Remove form cart.
-6.Users Reviews form with validation.
+1. Add to cart
+2. Color variant
+3. Product in Stock?.
+4. Shipping changes.
+5. Remove form cart.
+6. Users Reviews form with validation.
 
 and using VueJS features like
-1.Custom Validation, 
-2.Two-way binding,
-3.Components features,
-4.Computed properties,
-5.Event handling,
-6.List and Conditional rendering,
+1. Custom Validation, 
+2. Two-way binding,
+3. Components features,
+4. Computed properties,
+5. Event handling,
+6. List and Conditional rendering,
 
 
 ##### Made with ♥ by <a href="https://github.com/punitkmryh">punitDev</a>
