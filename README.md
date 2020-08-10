@@ -5,7 +5,7 @@
 
 Click here for [DEMO](https://vuejs-products.netlify.app/)
 
-A e-commerce product page with features like 
+An e-commerce product page with features like 
 1. Add to cart
 2. Color variant
 3. Product in Stock?.
